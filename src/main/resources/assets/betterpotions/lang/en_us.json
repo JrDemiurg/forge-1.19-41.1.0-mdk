@@ -1,0 +1,11 @@
+{
+  "item.betterpotions.zircon": "Zircon",
+  "item.betterpotions.raw_zircon": "Raw Zircon",
+
+  "block.betterpotions.zircon_block": "Block of Zircon",
+  "block.betterpotions.zircon_ore": "Zircon Ore",
+  "block.betterpotions.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "ItemGroup.betterpotionstab": "Better Potions"
+
+}
